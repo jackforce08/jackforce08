@@ -1,18 +1,128 @@
-<h1 align="center">Hi 👋, I'm jackforce</h1>
-<h3 align="center">A passionate python developer</h3>
+# Hi 👋, I'm Jack Force
 
-- 🔭 I’m currently working on [Libyan scholarships](https://github.com/jackforce08/libyan-scholarships)
+### Aspiring Computer Scientist | Python & TypeScript Developer | Project-Driven Learner
 
-- 🌱 I’m currently learning **Python, Web Development**
+I am a highly motivated student developer with a strong interest in **computer science, software engineering, and applied problem-solving**. My work focuses on building practical, real-world projects that combine programming fundamentals with modern development tools.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jackforce08/](https://github.com/jackforce08/)
+I am particularly interested in how technology can be used to improve **access to information, education, and opportunity**, as reflected in projects such as the *Libyan Scholarships Portal*.
 
-- 📫 How to reach me **radwandoufan@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/radwan-doufan-49b119331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radwan-doufan-49b119331" height="30" width="40" /></a>
-</p>
+## 🔬 Current Focus
+
+* 🔭 Developing **Libyan Scholarships Portal** — a bilingual, data-driven web platform built with modern frontend technologies
+* 🌱 Deepening my knowledge of **Python**, **TypeScript**, and **Web Development**
+* 📚 Strengthening foundations in software design, data handling, and system thinking
+
+---
+
+## 🧠 Technical Interests
+
+* Software Engineering
+* Data-Driven Applications
+* Web Technologies
+* Problem Solving & Algorithms
+* Technology for Social Impact
+
+---
+
+## 🛠️ Languages & Tools
+
+* **Python** — scripting, data handling, foundational application development
+* **TypeScript** — modern frontend development
+* **React + Vite** — component-based UI development
+* **Tailwind CSS / shadcn/ui** — scalable UI design
+* **Git & GitHub** — version control and collaboration
+
+---
+
+## 📂 Projects
+
+All of my public projects are available here:
+
+🔗 **[https://github.com/jackforce08](https://github.com/jackforce08)**
+
+Each repository includes detailed documentation explaining the technical decisions, learning outcomes, and design rationale.
+
+---
+
+## 🌍 Academic & Portfolio Note
+
+My GitHub profile is maintained as a **learning-focused portfolio**, documenting my progression from foundational programming projects to more advanced, real-world systems. Each project reflects deliberate practice, independent learning, and iterative improvement.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: **[radwandoufan@gmail.com](mailto:radwandoufan@gmail.com)**
+* 💼 LinkedIn: **radwan-doufan-49b119331**
+
+---
+
+> *I value clarity, structure, and purposeful design — both in code and in learning.*
+# Hi 👋, I'm Jack Force
+
+### Aspiring Computer Scientist | Python & TypeScript Developer | Project-Driven Learner
+
+I am a highly motivated student developer with a strong interest in **computer science, software engineering, and applied problem-solving**. My work focuses on building practical, real-world projects that combine programming fundamentals with modern development tools.
+
+I am particularly interested in how technology can be used to improve **access to information, education, and opportunity**, as reflected in projects such as the *Libyan Scholarships Portal*.
+
+---
+
+## 🔬 Current Focus
+
+* 🔭 Developing **Libyan Scholarships Portal** — a bilingual, data-driven web platform built with modern frontend technologies
+* 🌱 Deepening my knowledge of **Python**, **TypeScript**, and **Web Development**
+* 📚 Strengthening foundations in software design, data handling, and system thinking
+
+---
+
+## 🧠 Technical Interests
+
+* Software Engineering
+* Data-Driven Applications
+* Web Technologies
+* Problem Solving & Algorithms
+* Technology for Social Impact
+
+---
+
+## 🛠️ Languages & Tools
+
+* **Python** — scripting, data handling, foundational application development
+* **TypeScript** — modern frontend development
+* **React + Vite** — component-based UI development
+* **Tailwind CSS / shadcn/ui** — scalable UI design
+* **Git & GitHub** — version control and collaboration
+
+---
+
+## 📂 Projects
+
+All of my public projects are available here:
+
+🔗 **[https://github.com/jackforce08](https://github.com/jackforce08)**
+
+Each repository includes detailed documentation explaining the technical decisions, learning outcomes, and design rationale.
+
+---
+
+## 🌍 Academic & Portfolio Note
+
+My GitHub profile is maintained as a **learning-focused portfolio**, documenting my progression from foundational programming projects to more advanced, real-world systems. Each project reflects deliberate practice, independent learning, and iterative improvement.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: **[radwandoufan@gmail.com](mailto:radwandoufan@gmail.com)**
+* 💼 LinkedIn: **radwan-doufan-49b119331**
+
+---
+
+> *I value clarity, structure, and purposeful design — both in code and in learning.*
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
