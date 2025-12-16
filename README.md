@@ -10,8 +10,7 @@ I am particularly interested in how technology can be used to improve **access t
 
 ## 🔬 Current Focus
 
-* 🔭 Developing **Libyan Scholarships Portal** — a bilingual, data-driven web platform built with modern frontend technologies
-* 🌱 Deepening my knowledge of **Python**, **TypeScript**, and **Web Development**
+* 🔭 Developing **Libyan Scholarships Portal** — a bilingual, data-driven web platform built with modern frontend technologies (VIBE CODED)
 * 📚 Strengthening foundations in software design, data handling, and system thinking
 
 ---
@@ -28,10 +27,7 @@ I am particularly interested in how technology can be used to improve **access t
 
 ## 🛠️ Languages & Tools
 
-* **Python** — scripting, data handling, foundational application development
-* **TypeScript** — modern frontend development
-* **React + Vite** — component-based UI development
-* **Tailwind CSS / shadcn/ui** — scalable UI design
+* **Python** — Fundamentals, OOP
 * **Git & GitHub** — version control and collaboration
 
 ---
